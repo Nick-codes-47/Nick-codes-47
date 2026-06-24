@@ -28,7 +28,7 @@ I’m also interested in app development, scalable systems, and data‑driven en
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nick-codes-47&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nick-codes-47&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-codes-47&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
